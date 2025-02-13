@@ -1,3 +1,4 @@
+# Archivo en el que se usan las clases cons sus respectivas funcionas para simular una partida (no interaztivo de momento)
 from piezas import *
 torreb1 = Torre([0,0], "T")
 torreb2 = Torre([0,7], "T")
